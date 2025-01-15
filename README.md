@@ -12,7 +12,7 @@ _You're now able to write and run an Actions workflow! :sparkles:_
 
 Merge your changes so the action will be a part of the `main` branch.
 
-### :keyboard: Activity: Merge your workflow file
+### :keyboard: Activity: Merge your workflow
 
 1. In your repo, click on the **Pull requests** tab.
 1. Click on the pull request you created in step 1.
